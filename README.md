@@ -18,8 +18,8 @@ The notebooks in this repository cover topics such as:
 
 - Python  
 - Jupyter Notebook  
-- NumPy (basic usage)  
-- Pandas (basic usage)
+- NumPy  
+- Pandas 
 
 ## 🎯 Purpose
 
